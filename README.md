@@ -15,11 +15,11 @@ Admins can also see system reports and manage settings.
 
 -📊 Transaction history and reports saved in JSON files
 
--🔐 Account security, input validation, and error handling
-
 -🛠️ Admin dashboard for viewing all users and bank statistics
 
 -💾 Automatic backups for safe data storage
+
+-🔐 Talk privately and get support with the artificial intelligence assistant
 
 ------------------------------------------------------------------------------------------
 

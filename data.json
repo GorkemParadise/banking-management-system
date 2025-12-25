@@ -1,0 +1,37 @@
+{
+    "gorkem@gmail.com": {
+        "personal_info": {
+            "tc_last_four": "9999",
+            "name": "Gorkem",
+            "surname": "Paradise",
+            "birth_date": "16/07/2005",
+            "keyword": "kaan"
+        },
+        "accounts": {
+            "6064657764": {
+                "type": "daily_usage",
+                "balance_try": 7650.0,
+                "balance_usd": 35.252643948296125,
+                "balance_eur": 0.0,
+                "balance_gold": 0.0,
+                "created_at": "2025-12-02 21:20:36"
+            },
+            "5175821845": {
+                "type": "daily_usage",
+                "balance_try": 9850.0,
+                "balance_usd": 0.0,
+                "balance_eur": 0.0,
+                "balance_gold": 0.0,
+                "created_at": "2025-12-02 21:29:14"
+            },
+            "2014389091": {
+                "type": "virtual",
+                "balance_try": 900.0,
+                "balance_usd": 0.0,
+                "balance_eur": 0.0,
+                "balance_gold": 0.0,
+                "created_at": "2025-12-02 21:30:53"
+            }
+        }
+    }
+}

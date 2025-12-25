@@ -1,0 +1,87 @@
+[
+    {
+        "user": "gorkem@gmail.com",
+        "type": "account_opened",
+        "details": {
+            "account_number": "5175821845",
+            "type": "daily_usage",
+            "welcome_bonus": 10000.0
+        },
+        "timestamp": "2025-12-02 21:29:14"
+    },
+    {
+        "user": "gorkem@gmail.com",
+        "type": "account_opened",
+        "details": {
+            "account_number": "2014389091",
+            "type": "virtual",
+            "welcome_bonus": 0.0
+        },
+        "timestamp": "2025-12-02 21:30:53"
+    },
+    {
+        "user": "gorkem@gmail.com",
+        "type": "money_sent",
+        "details": {
+            "from_account": "6064657764",
+            "to_account": "2014389091",
+            "recipient_name": "Gorkem",
+            "amount": 1000.0
+        },
+        "timestamp": "2025-12-02 21:33:29"
+    },
+    {
+        "user": "gorkem@gmail.com",
+        "type": "money_received",
+        "details": {
+            "from_account": "6064657764",
+            "to_account": "2014389091",
+            "amount": 1000.0
+        },
+        "timestamp": "2025-12-02 21:33:29"
+    },
+    {
+        "user": "gorkem@gmail.com",
+        "type": "payment",
+        "details": {
+            "payment_type": "Tax Penalty",
+            "institution": "yeditepe",
+            "account": "2014389091",
+            "amount": 100.0
+        },
+        "timestamp": "2025-12-02 21:37:56"
+    },
+    {
+        "user": "gorkem@gmail.com",
+        "type": "currency_buy",
+        "details": {
+            "account": "6064657764",
+            "currency": "USD",
+            "amount": 35.252643948296125,
+            "spent_try": 1500.0,
+            "rate": 42.55
+        },
+        "timestamp": "2025-12-02 21:41:56"
+    },
+    {
+        "user": "gorkem@gmail.com",
+        "type": "money_sent",
+        "details": {
+            "from_account": "5175821845",
+            "to_account": "6064657764",
+            "recipient_name": "Gorkem",
+            "amount": 150.0
+        },
+        "timestamp": "2026-01-08 17:53:46"
+    },
+    {
+        "user": "gorkem@gmail.com",
+        "type": "money_received",
+        "details": {
+            "from_account": "5175821845",
+            "to_account": "6064657764",
+            "amount": 150.0
+        },
+        "timestamp": "2026-01-08 17:53:46"
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "gorkem@gmail.com": {
+        "id": "X3842",
+        "password": "12345",
+        "age": "20"
+    },
+    "admin@gmail.com": {
+        "id": "U1322",
+        "password": "sa123",
+        "age": "21"
+    }
+}
